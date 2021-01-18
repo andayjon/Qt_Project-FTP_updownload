@@ -2,7 +2,7 @@
 #include "ui_mainwindow.h"
 
 const char  *user = "user";
-const char *passwd = "123456000";
+const char *passwd = "12345611111";
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
